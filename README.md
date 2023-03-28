@@ -10,4 +10,4 @@ In this tutorial, one can find the similarities between the commands in order to
 The libraries that I used:
 - Pandas
 - SQLite3
-- Spark
+- PySpark
